@@ -1,0 +1,31 @@
+.overlay {
+    background-color: transparent !important;
+}
+
+.slide-pane {
+    background: #17141d !important;
+}
+
+.slide-pane__header {
+    background: #2b2538 !important;
+}
+
+.slider {
+    width: 60%;
+    max-width: 600px;
+    min-width: 250px;
+    padding: 1.5rem;
+    border-radius: 16px;
+    color: white;
+    transition-duration: 600ms;
+    transition-timing-function: ease;
+}
+
+.slider-details {
+    display: flex;
+    flex-direction: column;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
