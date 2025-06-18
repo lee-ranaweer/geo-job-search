@@ -1,4 +1,4 @@
-### Description
+### GeoJobSearch
 GeoJobSearch is a web application designed to assist users job search by aggregating information from various online job boards into one comprehensive, efficient, and easy-to-navigate application. The application implements various features to enhance the job search experience such as searching, filtering, and Google maps integration. The project is a demonstration that scrapes up do date jobs under the search term "Software engineer". 
 
 ### How to run: 
